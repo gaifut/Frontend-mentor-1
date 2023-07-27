@@ -5,16 +5,20 @@ body{
 }
 
 img{
+    width: 375px;
     border-radius: 20px;
+    position: relative;
+    top:10px;
 }
 
 .frame1 {
     background-color: hsl(0, 0%, 100%);
-    width: 375px;
+    width: 400px;
+    height:600px;
     border-radius: 20px;
     position:absolute;
     left:50%;
-    margin-left: -300px;
+    margin-left: -187.5px;
     top: 50%;
     margin-top: -400px;
 

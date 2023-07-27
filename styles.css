@@ -1,7 +1,33 @@
+/* default is for mobile */
 body{
-    background-color: blue;
+    background-color: hsl(212,45%, 89%);
+    text-align: center;
 }
 
+img{
+    border-radius: 20px;
+}
+
+.frame1 {
+    background-color: hsl(0, 0%, 100%);
+    width: 375px;
+    border-radius: 20px;
+    position:absolute;
+    left:50%;
+    margin-left: -300px;
+    top: 50%;
+    margin-top: -400px;
+
+}
+
+.attribution{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-left: -112.258px;
+}
+
+/* for desktop */
 @media screen and (min-width: 1440px) {
     body{background-color: red;}
 }

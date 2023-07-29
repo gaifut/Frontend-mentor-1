@@ -1,25 +1,41 @@
 /* default is for mobile */
 body{
     background-color: hsl(212,45%, 89%);
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
 }
 
 img{
-    width: 50vw;
-    border-radius: 20px;
-    position: relative;
-    top:10px;
+    width: 375px;
+    max-width: 100%;
+    height:auto;
+    /* border-radius: 20px;
+    position: fixed;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%) */
 }
 
 .frame1 {
     background-color: hsl(0, 0%, 100%);
-    width: 55vw;
+    max-width: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    
+    
+    /* min-height: 60vh; */
+
+    /* width: 55vw;
     border-radius: 20px;
     position:absolute;
     left:50%;
     margin-left: -187.5px;
     top: 50%;
-    margin-top: -400px;
+    margin-top: -400px; */
 
 }
 

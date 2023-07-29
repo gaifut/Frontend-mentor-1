@@ -11,11 +11,7 @@ img{
     width: 375px;
     max-width: 100%;
     height:auto;
-    /* border-radius: 20px;
-    position: fixed;
-    top:50%;
-    left: 50%;
-    transform: translate(-50%, -50%) */
+    border-radius: 5%;
 }
 
 .frame1 {
@@ -27,18 +23,20 @@ img{
     flex-direction: column;
     padding: 3%;
     border-radius: 5%;
-    
-    
-    /* min-height: 60vh; */
+}
 
-    /* width: 55vw;
-    border-radius: 20px;
-    position:absolute;
-    left:50%;
-    margin-left: -187.5px;
-    top: 50%;
-    margin-top: -400px; */
+h1{
+font-size: 1.5em;
+width: 350px;
+max-width: 100%;
+text-align: center;
+}
 
+p{
+font-size: 1em;
+width: 350px;
+max-width: 100%;
+text-align: center;
 }
 
 .attribution{

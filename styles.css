@@ -25,6 +25,8 @@ img{
     justify-content: center;
     display: flex;
     flex-direction: column;
+    padding: 3%;
+    border-radius: 5%;
     
     
     /* min-height: 60vh; */

@@ -23,6 +23,9 @@ img{
     flex-direction: column;
     padding: 8%;
     border-radius: 5%;
+    font-family: 'Roboto', sans-serif;
+    
+    
 }
 
 h1{
@@ -30,6 +33,7 @@ font-size: 1.5em;
 width: 350px;
 max-width: 100%;
 text-align: center;
+font-weight: 700;
 }
 
 p{
@@ -37,6 +41,8 @@ font-size: 1em;
 width: 350px;
 max-width: 100%;
 text-align: center;
+font-weight: 400;
+font-size: 15px;
 }
 
 .attribution{

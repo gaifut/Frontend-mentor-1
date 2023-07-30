@@ -47,7 +47,9 @@ font-size: 15px;
 
 .attribution{
     position: absolute;
-    bottom:0
+    bottom:0;
+    width: 100%;
+    text-align: center;
 }
 
 /* for desktop */

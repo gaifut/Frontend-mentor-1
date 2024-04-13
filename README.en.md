@@ -1,3 +1,5 @@
+[return to main Readme file](https://github.com/gaifut/Frontendmentor-2-Results-summary-component)
+
 # Frontend Mentor - QR code component solution
 - This is a solution to the [QR code component challenge on Frontend mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 - Solution URL: [Solution URL](https://frontend-mentor-1-theta.vercel.app/)

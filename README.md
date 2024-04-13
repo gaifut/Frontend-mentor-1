@@ -1,6 +1,44 @@
-Webpage link: https://gaifut.github.io/Frontend-mentor-1/
+# Frontend Mentor - QR code component solution
 
-I accepted this challenge of Frontend Mentor: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
-and provide my solution using CSS and HTML
+This is a solution to the [QR code component challenge on Frontend mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
-The idea was to make a webpage that looks like the images in the images folder on desktop and mobile screens. I tried to match the samples as close as possible.
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Build out th QR code component and get it looking as close as possible to the design provided.
+
+### Screenshot
+
+![](./screenshot.jpg)
+
+Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+
+Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+
+**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+
+### Links
+
+- Solution URL: [Solution URL](https://frontend-mentor-1-theta.vercel.app/)
+
+## Built with
+
+- HTML
+- CSS
+- Mobile-first workflow
+
+## Author
+Artur Gayfutdinov
+- Frontend Mentor - [@gaifut](https://www.frontendmentor.io/profile/gaifut)
